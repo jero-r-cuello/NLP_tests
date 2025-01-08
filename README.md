@@ -1,1 +1,2 @@
 # NLP_tests
+This repository contains a series of Jupyter notebooks focused on various aspects of Natural Language Processing (NLP). These notebooks provide insights into sentiment analysis, sentence-level sentiment breakdowns, and valence heatmap visualization. The purpose of this project is to explore techniques for extracting and analyzing emotional tone and sentiment from textual (and in future spoken) data.
